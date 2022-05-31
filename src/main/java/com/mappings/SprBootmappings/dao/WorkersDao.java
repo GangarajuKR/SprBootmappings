@@ -3,11 +3,10 @@ package com.mappings.SprBootmappings.dao;
 import java.util.List;
 import java.util.Optional;
 
-import org.apache.catalina.Manager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.mappings.SprBootmappings.OneToOne.Workers;
+import com.mappings.SprBootmappings.ManyToMany.Workers;
 import com.mappings.SprBootmappings.repository.WorkersRepository;
 
 @Repository

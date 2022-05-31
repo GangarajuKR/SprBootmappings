@@ -1,4 +1,4 @@
-package com.mappings.SprBootmappings.OneToOne;
+package com.mappings.SprBootmappings.ManyToMany;
 
 import java.util.List;
 

@@ -7,8 +7,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.mappings.SprBootmappings.OneToOne.Admin;
-import com.mappings.SprBootmappings.OneToOne.Manager;
+import com.mappings.SprBootmappings.OneToMany.Admin;
+import com.mappings.SprBootmappings.OneToMany.Manager;
 import com.mappings.SprBootmappings.repository.AdminRepository;
 
 @Repository

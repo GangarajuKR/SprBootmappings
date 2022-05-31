@@ -1,4 +1,4 @@
-package com.mappings.SprBootmappings.OneToOne;
+package com.mappings.SprBootmappings.OneToMany;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
